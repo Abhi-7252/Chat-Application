@@ -27,10 +27,6 @@ A real-time chat application built using Node.js, Express, and Socket.IO.
 - HTML, CSS, JavaScript
 
 ## ▶️ Run Locally
-
-1. Clone the repository:
-git clone https://github.com/sumitjangid044/chat-application.git
-
 2. Go to project folder:
 cd chat-websocket
 
